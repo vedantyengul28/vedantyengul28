@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Full stack web development.
 - 📫 How to reach me vedanty2806@gmail.com
 - 😄 Pronouns: He
-  
+- Connect with me : www.linkedin.com/in/vedantyengul28
+
+ 
 
 <!---
 vedantyengul28/vedantyengul28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
