@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full stack web development.
 - 📫 How to reach me vedanty2806@gmail.com
 - 😄 Pronouns: He
-- Connect with me : www.linkedin.com/in/vedantyengul28
+- 🤖 Connect with me : www.linkedin.com/in/vedantyengul28
 
  
 
