@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedantyengul28
-- 👀 I’m currently studying in 2nd Year of Computer science Engineeering.
-- 🌱 I’m currently learning Full stack web development.
+- 👀 I’m currently studying in 3rd Year of Computer science Engineeering.
+- 🌱 I’m currently learning Full stack web development and Android Mobile Development.
 - 📫 How to reach me vedanty2806@gmail.com
 - 😄 Pronouns: He
 - 🤖 Connect with me : www.linkedin.com/in/vedantyengul28
